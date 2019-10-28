@@ -1,0 +1,9 @@
+body{
+	background:blue;
+	
+}
+
+.navbar-nav{
+	
+	min-height:33px !important;
+}
